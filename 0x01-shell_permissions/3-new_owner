@@ -1,2 +1,3 @@
 #!/bin/bash
-chown betty hello
+chown betty /path/to/hello
+ls -l /path/to/hello
